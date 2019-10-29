@@ -1,6 +1,6 @@
 Dado("que possuo um novo filme para cadastrar") do
     @movie = {
-      "id": 4,
+      "id": 8,
       "titulo": "Terminator",
       "genero": "Action, Science Fiction",
       "ano": 2019

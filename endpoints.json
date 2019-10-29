@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "id": 1,
+      "titulo": "Toy Story 4",
+      "genero": "Animation",
+      "ano": 2019
+    },
+    {
       "id": 2,
       "titulo": "Joker",
       "genero": "Drama, Thriller",
@@ -10,12 +16,6 @@
       "id": 3,
       "titulo": "Spider-man",
       "genero": "Action, Adventure",
-      "ano": 2019
-    },
-    {
-      "id": 4,
-      "titulo": "Terminator",
-      "genero": "Action, Science Fiction",
       "ano": 2019
     }
   ]
