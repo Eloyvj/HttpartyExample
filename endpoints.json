@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "titulo": "Joker",
+      "genero": "Drama, Thriller",
+      "ano": 2019
+    },
+    {
+      "id": 3,
+      "titulo": "Spider-man",
+      "genero": "Action, Adventure",
+      "ano": 2019
+    },
+    {
+      "id": 4,
+      "titulo": "Terminator",
+      "genero": "Action, Science Fiction",
+      "ano": 2019
+    }
+  ]
+}
