@@ -3,10 +3,7 @@ class Helper
    
     @@schemaGet = {
         "type" => "object",
-        "required" => ["id"],
-        "required" => ["titulo"],
-        "required" => ["genero"],
-        "required" => ["ano"],
+        "required" => ["id", "titulo", "genero", "ano"],
         "properties" => {
             "id" => {"type" => "integer"},
             "titulo" => {"type" => "string"},
