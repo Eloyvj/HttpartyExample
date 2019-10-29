@@ -37,17 +37,18 @@ Watching...
 
 Abra uma janela do terminal e digite o comando abaixo para executar todas as features:
 
+```
 cucumber
 ```
 Abra uma janela do terminal e digite o comando abaixo para a feature correspondente:
-
+```
 cucumber features/get.feature
 cucumber features/post.feature
 cucumber features/put.feature
 cucumber features/delete.feature
 ```
 Execução com report padrão:
-
+```
 cucumber features/get.feature --format html --out get_report.html
 cucumber features/post.feature --format html --out post_report.html
 cucumber features/put.feature --format html --out put_report.html
